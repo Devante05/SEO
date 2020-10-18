@@ -9,10 +9,10 @@
 * section sematic added within aside container
 * non effective css deleted 
 
-* https://github.com/Devante05/SEO
-* https://github.com/Devante05/SEO.git
+* Link to repo https://github.com/Devante05/SEO-Homework 
 
-* Screenshots of my website
+
+# Screenshots of my website
 
   ![](./assets/images/stu-image.png)
 
@@ -20,7 +20,7 @@
 
    ![](./assets/images/stu-image3.png)
 
-* Screenshots of instructor website
+# Screenshots of instructor website
     
     ![](./assets/images/ins-image.png)
 
