@@ -14,11 +14,11 @@
 
 # Screenshots of my website
 
-  ![](./assets/images/stu-image.png)
+  ![](./assets/images/stu-website.png)
 
-   ![](./assets/images/stu-images2.png)
+   ![](./assets/images/stu-website2.png)
 
-   ![](./assets/images/stu-image3.png)
+   ![](./assets/images/stu-website3.png)
 
 # Screenshots of instructor website
     
