@@ -10,6 +10,7 @@
 * non effective css deleted 
 
 * Link to repo https://github.com/Devante05/SEO-Homework 
+* https://devante05.github.io/SEO-Homework/.
 
 
 # Screenshots of my website
